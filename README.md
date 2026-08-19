@@ -226,12 +226,12 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [awesome react](https://github.com/enaqx/awesome-react) ⭐ 74,335 | 🐛 80 | 📅 2026-07-20
-* [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,538 | 🐛 94 | 📅 2026-07-24
-* [CSS PROTIPS](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,249 | 🐛 2 | 📅 2025-03-20
-* [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,142 | 🐛 0 | 📅 2026-08-14
+* [awesome react](https://github.com/enaqx/awesome-react) ⭐ 74,337 | 🐛 82 | 📅 2026-07-20
+* [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,539 | 🐛 94 | 📅 2026-07-24
+* [CSS PROTIPS](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,250 | 🐛 2 | 📅 2025-03-20
+* [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,145 | 🐛 0 | 📅 2026-08-14
 * [awesome js - videolu anlatımlar](https://github.com/bolshchikov/js-must-watch) ⭐ 13,602 | 🐛 0 | 📅 2022-01-20
-* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,091 | 🐛 112 | 📅 2024-08-18
+* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,092 | 🐛 112 | 📅 2024-08-18
 * [awesome html5](https://github.com/diegocard/awesome-html5) ⭐ 2,799 | 🐛 18 | 📅 2023-09-26
 * [awesome svelte](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,150 | 🐛 47 | 📅 2026-05-30
 * [awesome bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap) ⭐ 1,435 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-02
@@ -272,14 +272,14 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [GO](https://github.com/avelino/awesome-go) ⭐ 181,511 | 🐛 213 | 🌐 Go | 📅 2026-08-19
-* [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,657 | 🐛 83 | 📅 2026-07-13
+* [GO](https://github.com/avelino/awesome-go) ⭐ 181,558 | 🐛 214 | 🌐 Go | 📅 2026-08-19
+* [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,658 | 🐛 85 | 📅 2026-07-13
 * [Python - Django](https://github.com/wsvincent/awesome-django) ⭐ 11,203 | 🐛 10 | 🌐 Python | 📅 2026-08-18
-* [Ruby on rails](https://github.com/gramantin/awesome-rails) ⭐ 3,923 | 🐛 1 | 📅 2026-08-19
+* [Ruby on rails](https://github.com/gramantin/awesome-rails) ⭐ 3,923 | 🐛 0 | 📅 2026-08-19
 * [MongoDB](https://github.com/ramnes/awesome-mongodb) ⭐ 2,671 | 🐛 4 | 📅 2026-08-05
-* [Nim](https://github.com/ringabout/awesome-nim) ⭐ 1,518 | 🐛 11 | 🌐 Nim | 📅 2026-07-20
+* [Nim](https://github.com/ringabout/awesome-nim) ⭐ 1,520 | 🐛 11 | 🌐 Nim | 📅 2026-07-20
 * [Express.js](https://github.com/rajikaimal/awesome-express) ⭐ 865 | 🐛 8 | 📅 2024-11-07
-* [SQL](https://github.com/danhuss/awesome-sql) ⭐ 449 | 🐛 18 | 📅 2026-04-25
+* [SQL](https://github.com/danhuss/awesome-sql) ⭐ 449 | 🐛 19 | 📅 2026-04-25
 * [Gin-Gonic](https://github.com/FlowerWrong/awesome-gin) ⭐ 431 | 🐛 0 | 📅 2022-09-08
 * [JS](https://github.com/errilaz/awesome-js-runtimes) ⭐ 178 | 🐛 4 | 📅 2025-05-04
 * [Benim Go Derslerim](https://github.com/hasan-kilici/go-tutorials) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2023-09-03
@@ -308,7 +308,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 * [gorilla/mux](https://pkg.go.dev/github.com/gorilla/mux) : Güçlü bir yönlendirici ve URL eşleme paketidir.
 * [MongoDB sürücüsü](https://www.mongodb.com/docs/drivers/go/current/) : MongoDB veritabanına erişmek için kullanabileceğiniz sürücü paketleri, örneğin go-mongo-driver veya mgo.
 * [GORM](https://gorm.io/docs/index.html) : Veritabanı işlemlerini basitleştiren bir ORM (Object Relational Mapping) paketi.
-* [go-cache](https://github.com/patrickmn/go-cache/blob/master/README.md) ⭐ 8,845 | 🐛 76 | 🌐 Go | 📅 2023-11-20 : Önbellek yönetimi için bir paket.
+* [go-cache](https://github.com/patrickmn/go-cache/blob/master/README.md) ⭐ 8,844 | 🐛 76 | 🌐 Go | 📅 2023-11-20 : Önbellek yönetimi için bir paket.
 * [jwt-go](https://pkg.go.dev/github.com/golang-jwt/jwt) : JSON Web Token (JWT) oluşturmak ve doğrulamak için kullanılan bir paket.
 * [bcrypt](https://pkg.go.dev/golang.org/x/crypto/bcrypt) : Parola şifreleme için kullanılan bir paket.
 * [crypto/rand](https://pkg.go.dev/crypto/rand) : Rastgele sayı ve bayt oluşturma için kullanılan paket.
@@ -392,7 +392,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 <div id="kariyer">
 <h3>Kariyerinizi İyi Etkiliyebilecek YouTube Kanalları ,Github Hesapları , Github repositoryleri ve Discord Sunucuları</h3>  
 
-* [fabacab - Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,521 | 🐛 74 | 📅 2024-07-15 :  Siber güvenlik alanında kendini geliştirmek isteyen kişiler için baya mükemmel kaynak
+* [fabacab - Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,523 | 🐛 75 | 📅 2024-07-15 :  Siber güvenlik alanında kendini geliştirmek isteyen kişiler için baya mükemmel kaynak
 * [Can Değer - Github ](https://github.com/LuNiZz/siber-guvenlik-sss) ⭐ 3,581 | 🐛 0 | 📅 2026-05-09 : Beyaz Takkeli Tornacı
 * [TheComputerM - Awesome Svelte Kit](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,150 | 🐛 47 | 📅 2026-05-30 : Svelte Mükemmel bir Front-end Frameworkdür. Svelte Kit ise React'ın Next.js'i Vue'nin Nuxt'ı gibidir.
 * [Patika.dev - YouTube ](https://www.youtube.com/watch?v=q2tjTKwz9IE\&list=PL1TEcULbcSLHMWxW3W8h48h_oF8Z3zxkP) : Web geliştirme, Mobil uygulama geliştirme, Blockchain gibi konulara derinlemesine dalan bir platform.
