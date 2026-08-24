@@ -1,7 +1,509 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Frameworklerin birden fazla türü vardır ancak burada iki türden bahsedeceğim: UI frameworkleri ve Front-end frameworkleri.\nUI frameworkleri şunlardır :\nFront-end frameworkleri ise şunlardır :\nBack-end tarafında ise istediğiniz programlama dilinde yazabilirsiniz. Bazı popüler back-end frameworkleri şunlardır:\nPHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt viewport kullanımı ya da Laravel kullanımı gibi farklı PHP kullanım alanları bulunmaktadır.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nim: Jester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4178258,
+            "language": "Nim",
+            "last_commit": "2026-07-29T13:03:03Z",
+            "owner": "dom96",
+            "repo": "jester",
+            "stars": 1629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nadun Indunil - Material UI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217705449,
+            "language": null,
+            "last_commit": "2024-08-28T00:30:39Z",
+            "owner": "nadunindunil",
+            "repo": "awesome-material-ui",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome react",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22670857,
+            "language": null,
+            "last_commit": "2026-08-20T07:58:12Z",
+            "owner": "enaqx",
+            "repo": "awesome-react",
+            "stars": 74383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome vue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44571718,
+            "language": null,
+            "last_commit": "2026-07-24T10:16:04Z",
+            "owner": "vuejs",
+            "repo": "awesome-vue",
+            "stars": 73534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS PROTIPS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41592744,
+            "language": null,
+            "last_commit": "2025-03-20T14:10:02Z",
+            "owner": "AllThingsSmitty",
+            "repo": "css-protips",
+            "stars": 30258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome tailwind",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109994573,
+            "language": null,
+            "last_commit": "2026-08-14T14:48:26Z",
+            "owner": "aniftyco",
+            "repo": "awesome-tailwindcss",
+            "stars": 15163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome js - videolu anlatımlar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21065473,
+            "language": null,
+            "last_commit": "2022-01-20T09:29:27Z",
+            "owner": "bolshchikov",
+            "repo": "js-must-watch",
+            "stars": 13607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alternative-front-ends",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254682413,
+            "language": null,
+            "last_commit": "2024-08-18T10:19:30Z",
+            "owner": "mendel5",
+            "repo": "alternative-front-ends",
+            "stars": 9109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome html5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21430176,
+            "language": null,
+            "last_commit": "2023-09-26T08:12:13Z",
+            "owner": "diegocard",
+            "repo": "awesome-html5",
+            "stars": 2803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome svelte",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299685925,
+            "language": null,
+            "last_commit": "2026-05-30T14:58:11Z",
+            "owner": "TheComputerM",
+            "repo": "awesome-svelte",
+            "stars": 2155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome bootstrap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22658069,
+            "language": "JavaScript",
+            "last_commit": "2023-11-02T14:54:30Z",
+            "owner": "awesome-bootstrap-org",
+            "repo": "awesome-bootstrap",
+            "stars": 1436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome sveltekit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 353665258,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T08:37:27Z",
+            "owner": "janosh",
+            "repo": "awesome-sveltekit",
+            "stars": 1316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4178258,
+            "language": "Nim",
+            "last_commit": "2026-07-29T13:03:03Z",
+            "owner": "dom96",
+            "repo": "jester",
+            "stars": 1629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GO",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21540759,
+            "language": "Go",
+            "last_commit": "2026-08-21T06:27:18Z",
+            "owner": "avelino",
+            "repo": "awesome-go",
+            "stars": 182112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14705691,
+            "language": null,
+            "last_commit": "2026-07-13T19:44:57Z",
+            "owner": "ziadoz",
+            "repo": "awesome-php",
+            "stars": 32672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python - Django",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129094260,
+            "language": "Python",
+            "last_commit": "2026-08-18T13:46:11Z",
+            "owner": "wsvincent",
+            "repo": "awesome-django",
+            "stars": 11222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby on rails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22022574,
+            "language": null,
+            "last_commit": "2026-08-19T12:06:35Z",
+            "owner": "gramantin",
+            "repo": "awesome-rails",
+            "stars": 3924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52230198,
+            "language": null,
+            "last_commit": "2026-08-05T15:52:41Z",
+            "owner": "ramnes",
+            "repo": "awesome-mongodb",
+            "stars": 2672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287497982,
+            "language": "Nim",
+            "last_commit": "2026-08-24T04:49:06Z",
+            "owner": "ringabout",
+            "repo": "awesome-nim",
+            "stars": 1520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Express.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60465631,
+            "language": null,
+            "last_commit": "2026-08-22T20:05:00Z",
+            "owner": "rajikaimal",
+            "repo": "awesome-express",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27949400,
+            "language": null,
+            "last_commit": "2026-04-25T14:15:25Z",
+            "owner": "danhuss",
+            "repo": "awesome-sql",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gin-Gonic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115179868,
+            "language": null,
+            "last_commit": "2022-09-08T00:11:35Z",
+            "owner": "FlowerWrong",
+            "repo": "awesome-gin",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 590902764,
+            "language": null,
+            "last_commit": "2025-05-04T18:47:51Z",
+            "owner": "errilaz",
+            "repo": "awesome-js-runtimes",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benim Go Derslerim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 597910886,
+            "language": "Go",
+            "last_commit": "2023-09-03T19:50:52Z",
+            "owner": "Hasan-Kilici",
+            "repo": "go-tutorials",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-cache",
+          "description": "Önbellek yönetimi için bir paket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3087541,
+            "language": "Go",
+            "last_commit": "2023-11-20T05:12:16Z",
+            "owner": "patrickmn",
+            "repo": "go-cache",
+            "stars": 8844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jester",
+          "description": "Hızlı, esnek ve kolay kullanımlı bir web framework'ü.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4178258,
+            "language": "Nim",
+            "last_commit": "2026-07-29T13:03:03Z",
+            "owner": "dom96",
+            "repo": "jester",
+            "stars": 1629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karax",
+          "description": "Web uygulamaları için client-side rendering yapmak için kullanılan bir framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86560897,
+            "language": "Nim",
+            "last_commit": "2026-07-12T15:26:59Z",
+            "owner": "karaxnim",
+            "repo": "karax",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Httpbeast",
+          "description": "HTTP sunucusu için minimalist ve hızlı bir seçenek.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108763940,
+            "language": "Nim",
+            "last_commit": "2024-01-07T21:29:05Z",
+            "owner": "dom96",
+            "repo": "httpbeast",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redis",
+          "description": "NoSQL veritabanı, önbellek ve mesaj kuyruğu için kullanılır.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37786936,
+            "language": "Nim",
+            "last_commit": "2026-08-13T11:52:30Z",
+            "owner": "nim-lang",
+            "repo": "redis",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fabacab - Cybersecurity Blue Team",
+          "description": "Siber güvenlik alanında kendini geliştirmek isteyen kişiler için baya mükemmel kaynak",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142053144,
+            "language": null,
+            "last_commit": "2024-07-15T08:05:27Z",
+            "owner": "fabacab",
+            "repo": "awesome-cybersecurity-blueteam",
+            "stars": 5539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Can Değer - Github",
+          "description": "Beyaz Takkeli Tornacı",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11333165,
+            "language": null,
+            "last_commit": "2026-05-09T12:54:15Z",
+            "owner": "LuNiZz",
+            "repo": "siber-guvenlik-sss",
+            "stars": 3587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheComputerM - Awesome Svelte Kit",
+          "description": "Svelte Mükemmel bir Front-end Frameworkdür. Svelte Kit ise React'ın Next.js'i Vue'nin Nuxt'ı gibidir.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299685925,
+            "language": null,
+            "last_commit": "2026-05-30T14:58:11Z",
+            "owner": "TheComputerM",
+            "repo": "awesome-svelte",
+            "stars": 2155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Golang Dersleri",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 597910886,
+            "language": "Go",
+            "last_commit": "2023-09-03T19:50:52Z",
+            "owner": "Hasan-Kilici",
+            "repo": "go-tutorials",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T19:44:27.884Z",
+    "last_updated": "2026-08-24T14:37:43.027Z",
     "original_repository": "Hasan-Kilici/web-gelistirme-101",
     "original_repository_id": 628937236,
     "original_repository_sha": "398700be15f9f685ddb4fa3ef114659a59448b31",
