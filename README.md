@@ -226,10 +226,10 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [awesome react](https://github.com/enaqx/awesome-react) ⭐ 74,383 | 🐛 82 | 📅 2026-08-20
-* [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,536 | 🐛 98 | 📅 2026-07-24
-* [CSS PROTIPS](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,259 | 🐛 2 | 📅 2025-03-20
-* [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,163 | 🐛 0 | 📅 2026-08-14
+* [awesome react](https://github.com/enaqx/awesome-react) ⭐ 74,392 | 🐛 82 | 📅 2026-08-20
+* [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,535 | 🐛 99 | 📅 2026-07-24
+* [CSS PROTIPS](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,259 | 🐛 1 | 📅 2026-08-24
+* [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,164 | 🐛 0 | 📅 2026-08-14
 * [awesome js - videolu anlatımlar](https://github.com/bolshchikov/js-must-watch) ⭐ 13,609 | 🐛 0 | 📅 2022-01-20
 * [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,110 | 🐛 112 | 📅 2024-08-18
 * [awesome html5](https://github.com/diegocard/awesome-html5) ⭐ 2,804 | 🐛 18 | 📅 2023-09-26
@@ -272,9 +272,9 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [GO](https://github.com/avelino/awesome-go) ⭐ 182,134 | 🐛 215 | 🌐 Go | 📅 2026-08-24
-* [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13
-* [Python - Django](https://github.com/wsvincent/awesome-django) ⭐ 11,222 | 🐛 10 | 🌐 Python | 📅 2026-08-18
+* [GO](https://github.com/avelino/awesome-go) ⭐ 182,172 | 🐛 216 | 🌐 Go | 📅 2026-08-25
+* [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13
+* [Python - Django](https://github.com/wsvincent/awesome-django) ⭐ 11,223 | 🐛 10 | 🌐 Python | 📅 2026-08-18
 * [Ruby on rails](https://github.com/gramantin/awesome-rails) ⭐ 3,924 | 🐛 0 | 📅 2026-08-19
 * [MongoDB](https://github.com/ramnes/awesome-mongodb) ⭐ 2,673 | 🐛 5 | 📅 2026-08-05
 * [Nim](https://github.com/ringabout/awesome-nim) ⭐ 1,520 | 🐛 11 | 🌐 Nim | 📅 2026-08-24
@@ -422,4 +422,4 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

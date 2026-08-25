@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74383
+            "stars": 74392
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73536
+            "stars": 73535
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 41592744,
             "language": null,
-            "last_commit": "2025-03-20T14:10:02Z",
+            "last_commit": "2026-08-24T23:08:38Z",
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
             "stars": 30259
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T14:48:26Z",
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15163
+            "stars": 15164
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 21540759,
             "language": "Go",
-            "last_commit": "2026-08-24T16:07:27Z",
+            "last_commit": "2026-08-25T00:32:48Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182134
+            "stars": 182172
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32672
+            "stars": 32671
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-18T13:46:11Z",
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11222
+            "stars": 11223
           }
         },
         {
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:53:39.759Z",
+    "last_updated": "2026-08-25T06:34:48.596Z",
     "original_repository": "Hasan-Kilici/web-gelistirme-101",
     "original_repository_id": 628937236,
     "original_repository_sha": "398700be15f9f685ddb4fa3ef114659a59448b31",
