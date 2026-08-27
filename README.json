@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74404
+            "stars": 74407
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73540
+            "stars": 73544
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T23:08:38Z",
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30259
+            "stars": 30261
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T14:48:26Z",
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15166
+            "stars": 15168
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-01-20T09:29:27Z",
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13608
+            "stars": 13607
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 21540759,
             "language": "Go",
-            "last_commit": "2026-08-26T21:27:52Z",
+            "last_commit": "2026-08-27T09:04:15Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182349
+            "stars": 182404
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-05-09T12:54:15Z",
             "owner": "LuNiZz",
             "repo": "siber-guvenlik-sss",
-            "stars": 3589
+            "stars": 3591
           }
         },
         {
@@ -503,9 +503,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:22:36.700Z",
-    "original_repository": "Hasan-Kilici/web-gelistirme-101",
-    "original_repository_id": 628937236,
+    "last_updated": "2026-08-27T12:10:03.021Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 628937236,
+      "language": null,
+      "last_commit": "2023-09-11T10:49:45Z",
+      "owner": "Hasan-Kilici",
+      "repo": "web-gelistirme-101",
+      "stars": 122
+    },
     "original_repository_sha": "398700be15f9f685ddb4fa3ef114659a59448b31",
     "enhanced_repository": "enhansome/enhansome-web-gelistirme-101",
     "enhanced_repository_description": null,
