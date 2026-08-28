@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74407
+            "stars": 74416
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73544
+            "stars": 73545
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T23:08:38Z",
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30261
+            "stars": 30263
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T14:48:26Z",
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15168
+            "stars": 15169
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-01-20T09:29:27Z",
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13607
+            "stars": 13606
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-08-18T10:19:30Z",
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9112
+            "stars": 9115
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2023-09-26T08:12:13Z",
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2804
+            "stars": 2805
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2023-11-02T14:54:30Z",
             "owner": "awesome-bootstrap-org",
             "repo": "awesome-bootstrap",
-            "stars": 1435
+            "stars": 1436
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-27T09:04:15Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182404
+            "stars": 182460
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32669
+            "stars": 32670
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2025-05-04T18:47:51Z",
             "owner": "errilaz",
             "repo": "awesome-js-runtimes",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2024-07-15T08:05:27Z",
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5541
+            "stars": 5542
           }
         },
         {
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:03.021Z",
+    "last_updated": "2026-08-28T03:38:34.085Z",
     "original_repository_info": {
       "archived": false,
       "id": 628937236,
