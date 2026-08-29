@@ -227,7 +227,7 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
   <h5>Awesome serileri</h5>
 
 * [awesome react](https://github.com/enaqx/awesome-react) ⭐ 74,426 | 🐛 83 | 📅 2026-08-20
-* [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,549 | 🐛 100 | 📅 2026-07-24
+* [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,548 | 🐛 100 | 📅 2026-07-24
 * [CSS PROTIPS](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,262 | 🐛 1 | 📅 2026-08-24
 * [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,172 | 🐛 0 | 📅 2026-08-14
 * [awesome js - videolu anlatımlar](https://github.com/bolshchikov/js-must-watch) ⭐ 13,604 | 🐛 0 | 📅 2022-01-20
@@ -272,7 +272,7 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [GO](https://github.com/avelino/awesome-go) ⭐ 182,556 | 🐛 219 | 🌐 Go | 📅 2026-08-28
+* [GO](https://github.com/avelino/awesome-go) ⭐ 182,561 | 🐛 219 | 🌐 Go | 📅 2026-08-28
 * [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13
 * [Python - Django](https://github.com/wsvincent/awesome-django) ⭐ 11,223 | 🐛 10 | 🌐 Python | 📅 2026-08-18
 * [Ruby on rails](https://github.com/gramantin/awesome-rails) ⭐ 3,923 | 🐛 0 | 📅 2026-08-19
