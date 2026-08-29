@@ -16,7 +16,8 @@
             "owner": "dom96",
             "repo": "jester",
             "stars": 1629
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "nadunindunil",
             "repo": "awesome-material-ui",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74416
-          }
+            "stars": 74426
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73545
-          }
+            "stars": 73549
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-24T23:08:38Z",
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30263
-          }
+            "stars": 30262
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-14T14:48:26Z",
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15169
-          }
+            "stars": 15172
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2022-01-20T09:29:27Z",
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13606
-          }
+            "stars": 13604
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2024-08-18T10:19:30Z",
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9115
-          }
+            "stars": 9119
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2023-09-26T08:12:13Z",
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2805
-          }
+            "stars": 2806
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
             "stars": 2156
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "awesome-bootstrap-org",
             "repo": "awesome-bootstrap",
             "stars": 1436
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "janosh",
             "repo": "awesome-sveltekit",
             "stars": 1316
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "dom96",
             "repo": "jester",
             "stars": 1629
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -207,11 +220,12 @@
             "archived": false,
             "id": 21540759,
             "language": "Go",
-            "last_commit": "2026-08-27T09:04:15Z",
+            "last_commit": "2026-08-28T16:52:34Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182460
-          }
+            "stars": 182556
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -225,8 +239,9 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32670
-          }
+            "stars": 32671
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -240,8 +255,9 @@
             "last_commit": "2026-08-18T13:46:11Z",
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11221
-          }
+            "stars": 11223
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -255,8 +271,9 @@
             "last_commit": "2026-08-19T12:06:35Z",
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3922
-          }
+            "stars": 3923
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "ramnes",
             "repo": "awesome-mongodb",
             "stars": 2673
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "ringabout",
             "repo": "awesome-nim",
             "stars": 1520
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "rajikaimal",
             "repo": "awesome-express",
             "stars": 865
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "danhuss",
             "repo": "awesome-sql",
             "stars": 451
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "FlowerWrong",
             "repo": "awesome-gin",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "errilaz",
             "repo": "awesome-js-runtimes",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "Hasan-Kilici",
             "repo": "go-tutorials",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "patrickmn",
             "repo": "go-cache",
             "stars": 8844
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "dom96",
             "repo": "jester",
             "stars": 1629
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "karaxnim",
             "repo": "karax",
             "stars": 1167
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "dom96",
             "repo": "httpbeast",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "nim-lang",
             "repo": "redis",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -450,8 +479,9 @@
             "last_commit": "2024-07-15T08:05:27Z",
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5542
-          }
+            "stars": 5545
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -465,8 +495,9 @@
             "last_commit": "2026-05-09T12:54:15Z",
             "owner": "LuNiZz",
             "repo": "siber-guvenlik-sss",
-            "stars": 3591
-          }
+            "stars": 3594
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
             "stars": 2156
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         },
         {
           "node_type": "item",
@@ -496,14 +528,15 @@
             "owner": "Hasan-Kilici",
             "repo": "go-tutorials",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:21:18.783Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:38:34.085Z",
+    "last_updated": "2026-08-29T02:21:18.783Z",
     "original_repository_info": {
       "archived": false,
       "id": 628937236,
