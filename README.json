@@ -70,10 +70,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-20T07:58:12Z",
-            "open_issues": 87,
+            "open_issues": 89,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74456,
+            "stars": 74460,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,10 +102,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-24T10:16:04Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73548,
+            "stars": 73549,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:18.783Z"
@@ -126,7 +126,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30262,
+            "stars": 30261,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15172,
+            "stars": 15175,
             "topics": [
               "apps",
               "awesome",
@@ -190,7 +190,7 @@
             "open_issues": 0,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13603,
+            "stars": 13605,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
             "open_issues": 112,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9125,
+            "stars": 9129,
             "topics": [
               "adblock",
               "alternative",
@@ -283,7 +283,7 @@
             "open_issues": 53,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2159,
+            "stars": 2158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -331,7 +331,7 @@
             "id": 353665258,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T15:45:17Z",
+            "last_commit": "2026-09-01T17:38:44Z",
             "open_issues": 1,
             "owner": "janosh",
             "repo": "awesome-sveltekit",
@@ -384,11 +384,11 @@
             "id": 21540759,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-31T23:08:43Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-01T04:21:01Z",
+            "open_issues": 225,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182812,
+            "stars": 182900,
             "topics": [
               "awesome",
               "awesome-list",
@@ -416,7 +416,7 @@
             "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32674,
+            "stars": 32675,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -445,7 +445,7 @@
             "open_issues": 10,
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11225,
+            "stars": 11227,
             "topics": [
               "awesome",
               "awesome-list",
@@ -470,7 +470,7 @@
             "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3923,
+            "stars": 3924,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
             "open_issues": 6,
             "owner": "ramnes",
             "repo": "awesome-mongodb",
-            "stars": 2674,
+            "stars": 2675,
             "topics": [
               "awesome",
               "awesome-list",
@@ -575,7 +575,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-25T14:15:25Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "danhuss",
             "repo": "awesome-sql",
             "stars": 451,
@@ -804,7 +804,7 @@
             "open_issues": 77,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5550,
+            "stars": 5554,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -856,7 +856,7 @@
             "open_issues": 53,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2159,
+            "stars": 2158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:16:25.357Z",
+    "last_updated": "2026-09-01T21:53:29.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
