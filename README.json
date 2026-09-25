@@ -73,7 +73,7 @@
             "open_issues": 16,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74705,
+            "stars": 74717,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,7 +102,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-24T12:33:22Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "vuejs",
             "repo": "awesome-vue",
             "stars": 73544,
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13612,
+            "stars": 13613,
             "topics": [
               "awesome",
               "awesome-list",
@@ -280,10 +280,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T19:38:43Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2164,
+            "stars": 2165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -384,11 +384,11 @@
             "id": 21540759,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T13:40:21Z",
+            "last_commit": "2026-09-25T11:24:00Z",
             "open_issues": 229,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 185436,
+            "stars": 185587,
             "topics": [
               "awesome",
               "awesome-list",
@@ -682,7 +682,7 @@
             "open_issues": 80,
             "owner": "patrickmn",
             "repo": "go-cache",
-            "stars": 8842,
+            "stars": 8840,
             "topics": [
               "cache",
               "go",
@@ -804,7 +804,7 @@
             "open_issues": 85,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5578,
+            "stars": 5579,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -853,10 +853,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T19:38:43Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2164,
+            "stars": 2165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:36:30.428Z",
+    "last_updated": "2026-09-25T22:36:18.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
