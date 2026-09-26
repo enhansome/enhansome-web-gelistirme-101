@@ -70,10 +70,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74717,
+            "stars": 74726,
             "topics": [
               "awesome",
               "awesome-list",
@@ -126,7 +126,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30284,
+            "stars": 30286,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15189,
+            "stars": 15188,
             "topics": [
               "apps",
               "awesome",
@@ -218,7 +218,7 @@
             "open_issues": 112,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9179,
+            "stars": 9180,
             "topics": [
               "adblock",
               "alternative",
@@ -280,7 +280,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T19:38:43Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
             "stars": 2165,
@@ -335,7 +335,7 @@
             "open_issues": 1,
             "owner": "janosh",
             "repo": "awesome-sveltekit",
-            "stars": 1321,
+            "stars": 1320,
             "topics": [
               "awesome-list",
               "community",
@@ -385,10 +385,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-25T11:24:00Z",
-            "open_issues": 229,
+            "open_issues": 228,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 185587,
+            "stars": 185734,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 4,
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11256,
+            "stars": 11258,
             "topics": [
               "awesome",
               "awesome-list",
@@ -523,7 +523,7 @@
             "open_issues": 11,
             "owner": "ringabout",
             "repo": "awesome-nim",
-            "stars": 1533,
+            "stars": 1535,
             "topics": [
               "awesome",
               "awesome-list",
@@ -804,7 +804,7 @@
             "open_issues": 85,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5579,
+            "stars": 5580,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -853,7 +853,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T19:38:43Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
             "stars": 2165,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:36:18.979Z",
+    "last_updated": "2026-09-26T22:03:16.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
