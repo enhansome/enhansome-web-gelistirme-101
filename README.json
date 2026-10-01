@@ -19,7 +19,7 @@
             "open_issues": 67,
             "owner": "dom96",
             "repo": "jester",
-            "stars": 1626,
+            "stars": 1627,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -70,10 +70,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74748,
+            "stars": 74765,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,11 +101,11 @@
             "id": 44571718,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-24T12:33:22Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-01T19:32:18Z",
+            "open_issues": 80,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73539,
+            "stars": 73538,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:18.783Z"
@@ -126,7 +126,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30289,
+            "stars": 30290,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15190,
+            "stars": 15193,
             "topics": [
               "apps",
               "awesome",
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13620,
+            "stars": 13619,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
             "open_issues": 112,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9188,
+            "stars": 9189,
             "topics": [
               "adblock",
               "alternative",
@@ -361,7 +361,7 @@
             "open_issues": 67,
             "owner": "dom96",
             "repo": "jester",
-            "stars": 1626,
+            "stars": 1627,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -384,11 +384,11 @@
             "id": 21540759,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:35:37Z",
+            "last_commit": "2026-10-01T17:22:30Z",
             "open_issues": 234,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 186305,
+            "stars": 186458,
             "topics": [
               "awesome",
               "awesome-list",
@@ -416,7 +416,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32717,
+            "stars": 32718,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -547,7 +547,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-22T20:05:00Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "rajikaimal",
             "repo": "awesome-express",
             "stars": 865,
@@ -707,7 +707,7 @@
             "open_issues": 67,
             "owner": "dom96",
             "repo": "jester",
-            "stars": 1626,
+            "stars": 1627,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -804,7 +804,7 @@
             "open_issues": 85,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5586,
+            "stars": 5587,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:07:20.383Z",
+    "last_updated": "2026-10-01T23:18:39.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
