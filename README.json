@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Nim: Jester",
-          "description": null,
+          "description": "dom96/jester",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Nadun Indunil - Material UI",
-          "description": null,
+          "description": "nadunindunil/awesome-material-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "awesome react",
-          "description": null,
+          "description": "enaqx/awesome-react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -73,7 +73,7 @@
             "open_issues": 17,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74779,
+            "stars": 74782,
             "topics": [
               "awesome",
               "awesome-list",
@@ -92,7 +92,7 @@
         {
           "node_type": "item",
           "title": "awesome vue",
-          "description": null,
+          "description": "vuejs/awesome-vue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -113,7 +113,7 @@
         {
           "node_type": "item",
           "title": "CSS PROTIPS",
-          "description": null,
+          "description": "AllThingsSmitty/css-protips",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,7 +146,7 @@
         {
           "node_type": "item",
           "title": "awesome tailwind",
-          "description": null,
+          "description": "aniftyco/awesome-tailwindcss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15196,
+            "stars": 15198,
             "topics": [
               "apps",
               "awesome",
@@ -177,7 +177,7 @@
         {
           "node_type": "item",
           "title": "awesome js - videolu anlatımlar",
-          "description": null,
+          "description": "bolshchikov/js-must-watch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13619,
+            "stars": 13621,
             "topics": [
               "awesome",
               "awesome-list",
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "alternative-front-ends",
-          "description": null,
+          "description": "mendel5/alternative-front-ends",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,7 +245,7 @@
         {
           "node_type": "item",
           "title": "awesome html5",
-          "description": null,
+          "description": "diegocard/awesome-html5",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "awesome svelte",
-          "description": null,
+          "description": "TheComputerM/awesome-svelte",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "awesome bootstrap",
-          "description": null,
+          "description": "awesome-bootstrap-org/awesome-bootstrap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,7 +322,7 @@
         {
           "node_type": "item",
           "title": "awesome sveltekit",
-          "description": null,
+          "description": "janosh/awesome-sveltekit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -348,7 +348,7 @@
         {
           "node_type": "item",
           "title": "Jester",
-          "description": null,
+          "description": "dom96/jester",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -375,7 +375,7 @@
         {
           "node_type": "item",
           "title": "GO",
-          "description": null,
+          "description": "avelino/awesome-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -384,11 +384,11 @@
             "id": 21540759,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:59:32Z",
+            "last_commit": "2026-10-03T00:11:10Z",
             "open_issues": 234,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 186609,
+            "stars": 186653,
             "topics": [
               "awesome",
               "awesome-list",
@@ -403,7 +403,7 @@
         {
           "node_type": "item",
           "title": "PHP",
-          "description": null,
+          "description": "ziadoz/awesome-php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,7 +416,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32721,
+            "stars": 32722,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "Python - Django",
-          "description": null,
+          "description": "wsvincent/awesome-django",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -445,7 +445,7 @@
             "open_issues": 5,
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11267,
+            "stars": 11268,
             "topics": [
               "awesome",
               "awesome-list",
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "Ruby on rails",
-          "description": null,
+          "description": "gramantin/awesome-rails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,7 +470,7 @@
             "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3930,
+            "stars": 3931,
             "topics": [
               "awesome",
               "awesome-list",
@@ -483,7 +483,7 @@
         {
           "node_type": "item",
           "title": "MongoDB",
-          "description": null,
+          "description": "ramnes/awesome-mongodb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -510,7 +510,7 @@
         {
           "node_type": "item",
           "title": "Nim",
-          "description": null,
+          "description": "ringabout/awesome-nim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "Express.js",
-          "description": null,
+          "description": "rajikaimal/awesome-express",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -565,7 +565,7 @@
         {
           "node_type": "item",
           "title": "SQL",
-          "description": null,
+          "description": "danhuss/awesome-sql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -594,7 +594,7 @@
         {
           "node_type": "item",
           "title": "Gin-Gonic",
-          "description": null,
+          "description": "FlowerWrong/awesome-gin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -621,7 +621,7 @@
         {
           "node_type": "item",
           "title": "JS",
-          "description": null,
+          "description": "errilaz/awesome-js-runtimes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -648,7 +648,7 @@
         {
           "node_type": "item",
           "title": "Benim Go Derslerim",
-          "description": null,
+          "description": "Hasan-Kilici/go-tutorials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -870,7 +870,7 @@
         {
           "node_type": "item",
           "title": "Golang Dersleri",
-          "description": null,
+          "description": "Hasan-Kilici/go-tutorials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:07:47.325Z",
+    "last_updated": "2026-10-03T05:15:38.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",

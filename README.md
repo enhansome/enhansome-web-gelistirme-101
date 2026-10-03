@@ -226,11 +226,11 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [awesome react](https://github.com/enaqx/awesome-react) ⭐ 74,779 | 🐛 17 | 📅 2026-09-04
+* [awesome react](https://github.com/enaqx/awesome-react) ⭐ 74,782 | 🐛 17 | 📅 2026-09-04
 * [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,538 | 🐛 82 | 📅 2026-10-01
 * [CSS PROTIPS](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,285 | 🐛 1 | 📅 2026-09-23
-* [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,196 | 🐛 0 | 📅 2026-08-14
-* [awesome js - videolu anlatımlar](https://github.com/bolshchikov/js-must-watch) ⭐ 13,619 | 🐛 1 | 📅 2022-01-20
+* [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,198 | 🐛 0 | 📅 2026-08-14
+* [awesome js - videolu anlatımlar](https://github.com/bolshchikov/js-must-watch) ⭐ 13,621 | 🐛 1 | 📅 2022-01-20
 * [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,187 | 🐛 112 | 📅 2024-08-18
 * [awesome html5](https://github.com/diegocard/awesome-html5) ⭐ 2,811 | 🐛 18 | 📅 2023-09-26
 * [awesome svelte](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,168 | 🐛 48 | 📅 2026-09-07
@@ -272,10 +272,10 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [GO](https://github.com/avelino/awesome-go) ⭐ 186,609 | 🐛 234 | 🌐 Go | 📅 2026-10-02
-* [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,721 | 🐛 94 | 📅 2026-09-27
-* [Python - Django](https://github.com/wsvincent/awesome-django) ⭐ 11,267 | 🐛 5 | 🌐 Python | 📅 2026-09-16
-* [Ruby on rails](https://github.com/gramantin/awesome-rails) ⭐ 3,930 | 🐛 0 | 📅 2026-09-30
+* [GO](https://github.com/avelino/awesome-go) ⭐ 186,653 | 🐛 234 | 🌐 Go | 📅 2026-10-03
+* [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,722 | 🐛 94 | 📅 2026-09-27
+* [Python - Django](https://github.com/wsvincent/awesome-django) ⭐ 11,268 | 🐛 5 | 🌐 Python | 📅 2026-09-16
+* [Ruby on rails](https://github.com/gramantin/awesome-rails) ⭐ 3,931 | 🐛 0 | 📅 2026-09-30
 * [MongoDB](https://github.com/ramnes/awesome-mongodb) ⭐ 2,676 | 🐛 11 | 📅 2026-09-18
 * [Nim](https://github.com/ringabout/awesome-nim) ⭐ 1,536 | 🐛 12 | 🌐 Nim | 📅 2026-10-02
 * [Express.js](https://github.com/rajikaimal/awesome-express) ⭐ 866 | 🐛 8 | 📅 2026-08-22
@@ -422,4 +422,4 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
