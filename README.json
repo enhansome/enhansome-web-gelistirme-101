@@ -70,10 +70,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74813,
+            "stars": 74811,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,10 +102,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-01T19:32:18Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73533,
+            "stars": 73531,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:18.783Z"
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15196,
+            "stars": 15197,
             "topics": [
               "apps",
               "awesome",
@@ -215,10 +215,10 @@
             "language": null,
             "license": "AGPL-3.0",
             "last_commit": "2024-08-18T10:19:30Z",
-            "open_issues": 112,
+            "open_issues": 111,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9186,
+            "stars": 9185,
             "topics": [
               "adblock",
               "alternative",
@@ -258,7 +258,7 @@
             "open_issues": 18,
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2811,
+            "stars": 2810,
             "topics": [
               "awesome",
               "awesome-list",
@@ -384,11 +384,11 @@
             "id": 21540759,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T08:12:43Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-06T14:58:13Z",
+            "open_issues": 66,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 187185,
+            "stars": 187259,
             "topics": [
               "awesome",
               "awesome-list",
@@ -416,7 +416,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32729,
+            "stars": 32728,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -441,11 +441,11 @@
             "id": 129094260,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-04T00:31:42Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-06T18:11:26Z",
+            "open_issues": 5,
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11271,
+            "stars": 11269,
             "topics": [
               "awesome",
               "awesome-list",
@@ -523,7 +523,7 @@
             "open_issues": 12,
             "owner": "ringabout",
             "repo": "awesome-nim",
-            "stars": 1538,
+            "stars": 1539,
             "topics": [
               "awesome",
               "awesome-list",
@@ -682,7 +682,7 @@
             "open_issues": 82,
             "owner": "patrickmn",
             "repo": "go-cache",
-            "stars": 8841,
+            "stars": 8840,
             "topics": [
               "cache",
               "go",
@@ -804,7 +804,7 @@
             "open_issues": 84,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5592,
+            "stars": 5591,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:06.248Z",
+    "last_updated": "2026-10-06T23:10:47.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
