@@ -70,10 +70,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74988,
+            "stars": 75005,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,10 +102,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-19T10:49:59Z",
-            "open_issues": 100,
+            "open_issues": 102,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73511,
+            "stars": 73513,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:18.783Z"
@@ -126,7 +126,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30302,
+            "stars": 30301,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15205,
+            "stars": 15206,
             "topics": [
               "apps",
               "awesome",
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13634,
+            "stars": 13635,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
             "open_issues": 111,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9211,
+            "stars": 9212,
             "topics": [
               "adblock",
               "alternative",
@@ -258,7 +258,7 @@
             "open_issues": 19,
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2811,
+            "stars": 2812,
             "topics": [
               "awesome",
               "awesome-list",
@@ -280,10 +280,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T19:38:43Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2168,
+            "stars": 2169,
             "topics": [
               "awesome",
               "awesome-list",
@@ -385,10 +385,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-19T14:07:44Z",
-            "open_issues": 83,
+            "open_issues": 85,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 189440,
+            "stars": 189634,
             "topics": [
               "awesome",
               "awesome-list",
@@ -416,7 +416,7 @@
             "open_issues": 98,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32757,
+            "stars": 32759,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -441,11 +441,11 @@
             "id": 129094260,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-19T12:59:29Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-21T21:35:20Z",
+            "open_issues": 8,
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11281,
+            "stars": 11282,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
             "open_issues": 19,
             "owner": "ramnes",
             "repo": "awesome-mongodb",
-            "stars": 2677,
+            "stars": 2679,
             "topics": [
               "awesome",
               "awesome-list",
@@ -523,7 +523,7 @@
             "open_issues": 15,
             "owner": "ringabout",
             "repo": "awesome-nim",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "awesome",
               "awesome-list",
@@ -682,7 +682,7 @@
             "open_issues": 82,
             "owner": "patrickmn",
             "repo": "go-cache",
-            "stars": 8841,
+            "stars": 8840,
             "topics": [
               "cache",
               "go",
@@ -801,10 +801,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-15T08:05:27Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5612,
+            "stars": 5615,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -833,7 +833,7 @@
             "open_issues": 0,
             "owner": "LuNiZz",
             "repo": "siber-guvenlik-sss",
-            "stars": 3617,
+            "stars": 3615,
             "topics": [
               "siberguvenlik"
             ]
@@ -853,10 +853,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T19:38:43Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2168,
+            "stars": 2169,
             "topics": [
               "awesome",
               "awesome-list",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:28:44.146Z",
+    "last_updated": "2026-10-21T22:34:16.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
