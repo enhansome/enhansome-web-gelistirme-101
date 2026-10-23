@@ -16,7 +16,7 @@
             "language": "Nim",
             "license": "MIT",
             "last_commit": "2026-07-29T13:03:03Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "dom96",
             "repo": "jester",
             "stars": 1626,
@@ -73,7 +73,7 @@
             "open_issues": 29,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75018,
+            "stars": 75027,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,10 +102,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-19T10:49:59Z",
-            "open_issues": 102,
+            "open_issues": 104,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73517,
+            "stars": 73509,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:18.783Z"
@@ -156,7 +156,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-14T14:48:26Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
             "stars": 15206,
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13635,
+            "stars": 13637,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
             "open_issues": 111,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9212,
+            "stars": 9215,
             "topics": [
               "adblock",
               "alternative",
@@ -258,7 +258,7 @@
             "open_issues": 19,
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2812,
+            "stars": 2813,
             "topics": [
               "awesome",
               "awesome-list",
@@ -283,7 +283,7 @@
             "open_issues": 58,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2171,
+            "stars": 2172,
             "topics": [
               "awesome",
               "awesome-list",
@@ -358,7 +358,7 @@
             "language": "Nim",
             "license": "MIT",
             "last_commit": "2026-07-29T13:03:03Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "dom96",
             "repo": "jester",
             "stars": 1626,
@@ -384,11 +384,11 @@
             "id": 21540759,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-22T14:02:57Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-23T14:16:22Z",
+            "open_issues": 85,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 189810,
+            "stars": 189986,
             "topics": [
               "awesome",
               "awesome-list",
@@ -416,7 +416,7 @@
             "open_issues": 98,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32760,
+            "stars": 32761,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -441,11 +441,11 @@
             "id": 129094260,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-21T21:35:20Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-23T01:32:48Z",
+            "open_issues": 9,
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11284,
+            "stars": 11286,
             "topics": [
               "awesome",
               "awesome-list",
@@ -575,10 +575,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-25T14:15:25Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "danhuss",
             "repo": "awesome-sql",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "awesome",
               "awesome-list",
@@ -607,7 +607,7 @@
             "open_issues": 0,
             "owner": "FlowerWrong",
             "repo": "awesome-gin",
-            "stars": 431,
+            "stars": 432,
             "topics": [
               "awesome",
               "awesome-gin",
@@ -704,7 +704,7 @@
             "language": "Nim",
             "license": "MIT",
             "last_commit": "2026-07-29T13:03:03Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "dom96",
             "repo": "jester",
             "stars": 1626,
@@ -804,7 +804,7 @@
             "open_issues": 85,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5617,
+            "stars": 5619,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -833,7 +833,7 @@
             "open_issues": 0,
             "owner": "LuNiZz",
             "repo": "siber-guvenlik-sss",
-            "stars": 3615,
+            "stars": 3616,
             "topics": [
               "siberguvenlik"
             ]
@@ -856,7 +856,7 @@
             "open_issues": 58,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2171,
+            "stars": 2172,
             "topics": [
               "awesome",
               "awesome-list",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:34:38.986Z",
+    "last_updated": "2026-10-23T22:28:50.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
