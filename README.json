@@ -70,10 +70,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 31,
+            "open_issues": 34,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75162,
+            "stars": 75174,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,10 +102,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-03T16:02:10Z",
-            "open_issues": 99,
+            "open_issues": 102,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73492,
+            "stars": 73488,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:18.783Z"
@@ -126,7 +126,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30296,
+            "stars": 30297,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15222,
+            "stars": 15223,
             "topics": [
               "apps",
               "awesome",
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13647,
+            "stars": 13648,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
             "open_issues": 112,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9240,
+            "stars": 9242,
             "topics": [
               "adblock",
               "alternative",
@@ -258,7 +258,7 @@
             "open_issues": 19,
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2820,
+            "stars": 2821,
             "topics": [
               "awesome",
               "awesome-list",
@@ -280,7 +280,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-03T09:18:50Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
             "stars": 2177,
@@ -310,7 +310,7 @@
             "open_issues": 1,
             "owner": "awesome-bootstrap-org",
             "repo": "awesome-bootstrap",
-            "stars": 1434,
+            "stars": 1435,
             "topics": [
               "awesome",
               "awesome-list",
@@ -335,7 +335,7 @@
             "open_issues": 0,
             "owner": "janosh",
             "repo": "awesome-sveltekit",
-            "stars": 1331,
+            "stars": 1330,
             "topics": [
               "awesome-list",
               "community",
@@ -385,10 +385,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-03T10:03:02Z",
-            "open_issues": 109,
+            "open_issues": 112,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 191931,
+            "stars": 192089,
             "topics": [
               "awesome",
               "awesome-list",
@@ -413,10 +413,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-10-30T20:46:41Z",
-            "open_issues": 79,
+            "open_issues": 78,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32784,
+            "stars": 32785,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -547,10 +547,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-22T20:05:00Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "rajikaimal",
             "repo": "awesome-express",
-            "stars": 864,
+            "stars": 863,
             "topics": [
               "articles",
               "expressjs",
@@ -578,7 +578,7 @@
             "open_issues": 41,
             "owner": "danhuss",
             "repo": "awesome-sql",
-            "stars": 457,
+            "stars": 456,
             "topics": [
               "awesome",
               "awesome-list",
@@ -734,7 +734,7 @@
             "open_issues": 15,
             "owner": "karaxnim",
             "repo": "karax",
-            "stars": 1165,
+            "stars": 1166,
             "topics": [
               "nim-language",
               "spa"
@@ -804,7 +804,7 @@
             "open_issues": 88,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5629,
+            "stars": 5632,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -833,7 +833,7 @@
             "open_issues": 0,
             "owner": "LuNiZz",
             "repo": "siber-guvenlik-sss",
-            "stars": 3624,
+            "stars": 3626,
             "topics": [
               "siberguvenlik"
             ]
@@ -853,7 +853,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-03T09:18:50Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
             "stars": 2177,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:02:16.366Z",
+    "last_updated": "2026-11-05T00:27:27.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",

@@ -226,16 +226,16 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [awesome react](https://github.com/enaqx/awesome-react) ⭐ 75,162 | 🐛 31 | 📅 2026-09-04
-* [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,492 | 🐛 99 | 📅 2026-11-03
-* [CSS PROTIPS](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,296 | 🐛 1 | 📅 2026-09-23
-* [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,222 | 🐛 0 | 📅 2026-10-27
-* [awesome js - videolu anlatımlar](https://github.com/bolshchikov/js-must-watch) ⭐ 13,647 | 🐛 1 | 📅 2022-01-20
-* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,240 | 🐛 112 | 📅 2024-08-18
-* [awesome html5](https://github.com/diegocard/awesome-html5) ⭐ 2,820 | 🐛 19 | 📅 2023-09-26
-* [awesome svelte](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,177 | 🐛 63 | 📅 2026-11-03
-* [awesome bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap) ⭐ 1,434 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-02
-* [awesome sveltekit](https://github.com/janosh/awesome-sveltekit) ⭐ 1,331 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30
+* [awesome react](https://github.com/enaqx/awesome-react) ⭐ 75,174 | 🐛 34 | 📅 2026-09-04
+* [awesome vue](https://github.com/vuejs/awesome-vue) ⭐ 73,488 | 🐛 102 | 📅 2026-11-03
+* [CSS PROTIPS](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,297 | 🐛 1 | 📅 2026-09-23
+* [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,223 | 🐛 0 | 📅 2026-10-27
+* [awesome js - videolu anlatımlar](https://github.com/bolshchikov/js-must-watch) ⭐ 13,648 | 🐛 1 | 📅 2022-01-20
+* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,242 | 🐛 112 | 📅 2024-08-18
+* [awesome html5](https://github.com/diegocard/awesome-html5) ⭐ 2,821 | 🐛 19 | 📅 2023-09-26
+* [awesome svelte](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,177 | 🐛 64 | 📅 2026-11-03
+* [awesome bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap) ⭐ 1,435 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-02
+* [awesome sveltekit](https://github.com/janosh/awesome-sveltekit) ⭐ 1,330 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30
 
   <h4>Back-end Kaynakları</h4>
 
@@ -272,14 +272,14 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
 
-* [GO](https://github.com/avelino/awesome-go) ⭐ 191,931 | 🐛 109 | 🌐 Go | 📅 2026-11-03
-* [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,784 | 🐛 79 | 📅 2026-10-30
+* [GO](https://github.com/avelino/awesome-go) ⭐ 192,089 | 🐛 112 | 🌐 Go | 📅 2026-11-03
+* [PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,785 | 🐛 78 | 📅 2026-10-30
 * [Python - Django](https://github.com/wsvincent/awesome-django) ⭐ 11,300 | 🐛 3 | 🌐 Python | 📅 2026-10-26
 * [Ruby on rails](https://github.com/gramantin/awesome-rails) ⭐ 3,939 | 🐛 0 | 📅 2026-11-03
 * [MongoDB](https://github.com/ramnes/awesome-mongodb) ⭐ 2,681 | 🐛 20 | 📅 2026-10-28
 * [Nim](https://github.com/ringabout/awesome-nim) ⭐ 1,548 | 🐛 16 | 🌐 Nim | 📅 2026-10-13
-* [Express.js](https://github.com/rajikaimal/awesome-express) ⭐ 864 | 🐛 12 | 📅 2026-08-22
-* [SQL](https://github.com/danhuss/awesome-sql) ⭐ 457 | 🐛 41 | 📅 2026-04-25
+* [Express.js](https://github.com/rajikaimal/awesome-express) ⭐ 863 | 🐛 13 | 📅 2026-08-22
+* [SQL](https://github.com/danhuss/awesome-sql) ⭐ 456 | 🐛 41 | 📅 2026-04-25
 * [Gin-Gonic](https://github.com/FlowerWrong/awesome-gin) ⭐ 431 | 🐛 0 | 📅 2022-09-08
 * [JS](https://github.com/errilaz/awesome-js-runtimes) ⭐ 186 | 🐛 4 | 📅 2025-05-04
 * [Benim Go Derslerim](https://github.com/hasan-kilici/go-tutorials) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2023-09-03
@@ -344,7 +344,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 <h4>Nim'de kullanabileceğiniz paketler</h4>
 
 * [Jester](https://github.com/dom96/jester) ⭐ 1,627 | 🐛 69 | 🌐 Nim | 📅 2026-07-29 : Hızlı, esnek ve kolay kullanımlı bir web framework'ü.
-* [Karax](https://github.com/karaxnim/karax) ⭐ 1,165 | 🐛 15 | 🌐 Nim | 📅 2026-07-12 : Web uygulamaları için client-side rendering yapmak için kullanılan bir framework.
+* [Karax](https://github.com/karaxnim/karax) ⭐ 1,166 | 🐛 15 | 🌐 Nim | 📅 2026-07-12 : Web uygulamaları için client-side rendering yapmak için kullanılan bir framework.
 * [Httpbeast](https://github.com/dom96/httpbeast) ⭐ 475 | 🐛 19 | 🌐 Nim | 📅 2024-01-07 : HTTP sunucusu için minimalist ve hızlı bir seçenek.
 * [Redis](https://github.com/nim-lang/redis) ⭐ 132 | 🐛 12 | 🌐 Nim | 📅 2026-10-29 : NoSQL veritabanı, önbellek ve mesaj kuyruğu için kullanılır.
 * [SQLite](https://nim-lang.org/docs/db_sqlite.html) : Hafif ve yerel bir SQL veritabanı.
@@ -392,9 +392,9 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 <div id="kariyer">
 <h3>Kariyerinizi İyi Etkiliyebilecek YouTube Kanalları ,Github Hesapları , Github repositoryleri ve Discord Sunucuları</h3>  
 
-* [fabacab - Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,629 | 🐛 88 | 📅 2024-07-15 :  Siber güvenlik alanında kendini geliştirmek isteyen kişiler için baya mükemmel kaynak
-* [Can Değer - Github ](https://github.com/LuNiZz/siber-guvenlik-sss) ⭐ 3,624 | 🐛 0 | 📅 2026-05-09 : Beyaz Takkeli Tornacı
-* [TheComputerM - Awesome Svelte Kit](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,177 | 🐛 63 | 📅 2026-11-03 : Svelte Mükemmel bir Front-end Frameworkdür. Svelte Kit ise React'ın Next.js'i Vue'nin Nuxt'ı gibidir.
+* [fabacab - Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,632 | 🐛 88 | 📅 2024-07-15 :  Siber güvenlik alanında kendini geliştirmek isteyen kişiler için baya mükemmel kaynak
+* [Can Değer - Github ](https://github.com/LuNiZz/siber-guvenlik-sss) ⭐ 3,626 | 🐛 0 | 📅 2026-05-09 : Beyaz Takkeli Tornacı
+* [TheComputerM - Awesome Svelte Kit](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,177 | 🐛 64 | 📅 2026-11-03 : Svelte Mükemmel bir Front-end Frameworkdür. Svelte Kit ise React'ın Next.js'i Vue'nin Nuxt'ı gibidir.
 * [Patika.dev - YouTube ](https://www.youtube.com/watch?v=q2tjTKwz9IE\&list=PL1TEcULbcSLHMWxW3W8h48h_oF8Z3zxkP) : Web geliştirme, Mobil uygulama geliştirme, Blockchain gibi konulara derinlemesine dalan bir platform.
 * [Fireship - Youtube](https://www.youtube.com/@Fireship) : Youtube'nin En Kaliteli yazılım kanalı. gerekse miimleri ile olsun gerekse anlatımı ile olsun gerekse anlattığı şeyler olsun. Gerçekten aşırı kaliteli ve aşırı uğraşılmış. şiddetle takip etmenizi öneriyorum
 * [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT/videos) : Front-End  developer'lar için olmassa olmaz bir kanal.
@@ -422,4 +422,4 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
