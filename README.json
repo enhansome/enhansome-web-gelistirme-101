@@ -73,7 +73,7 @@
             "open_issues": 36,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75218,
+            "stars": 75225,
             "topics": [
               "awesome",
               "awesome-list",
@@ -105,7 +105,7 @@
             "open_issues": 106,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73483,
+            "stars": 73480,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:18.783Z"
@@ -126,7 +126,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30297,
+            "stars": 30299,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15229,
+            "stars": 15230,
             "topics": [
               "apps",
               "awesome",
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13650,
+            "stars": 13651,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
             "open_issues": 112,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9252,
+            "stars": 9253,
             "topics": [
               "adblock",
               "alternative",
@@ -388,7 +388,7 @@
             "open_issues": 116,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 192829,
+            "stars": 193009,
             "topics": [
               "awesome",
               "awesome-list",
@@ -416,7 +416,7 @@
             "open_issues": 78,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32790,
+            "stars": 32791,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -682,7 +682,7 @@
             "open_issues": 84,
             "owner": "patrickmn",
             "repo": "go-cache",
-            "stars": 8840,
+            "stars": 8841,
             "topics": [
               "cache",
               "go",
@@ -804,7 +804,7 @@
             "open_issues": 89,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5640,
+            "stars": 5641,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:59:13.795Z",
+    "last_updated": "2026-11-10T02:19:39.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
