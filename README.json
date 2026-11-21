@@ -16,10 +16,10 @@
             "language": "Nim",
             "license": "MIT",
             "last_commit": "2026-07-29T13:03:03Z",
-            "open_issues": 70,
+            "open_issues": 69,
             "owner": "dom96",
             "repo": "jester",
-            "stars": 1626,
+            "stars": 1627,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -73,7 +73,7 @@
             "open_issues": 43,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75334,
+            "stars": 75344,
             "topics": [
               "awesome",
               "awesome-list",
@@ -105,7 +105,7 @@
             "open_issues": 114,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73471,
+            "stars": 73469,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:18.783Z"
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13656,
+            "stars": 13657,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
             "open_issues": 111,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9265,
+            "stars": 9266,
             "topics": [
               "adblock",
               "alternative",
@@ -280,7 +280,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-03T09:18:50Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
             "stars": 2180,
@@ -358,10 +358,10 @@
             "language": "Nim",
             "license": "MIT",
             "last_commit": "2026-07-29T13:03:03Z",
-            "open_issues": 70,
+            "open_issues": 69,
             "owner": "dom96",
             "repo": "jester",
-            "stars": 1626,
+            "stars": 1627,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -388,7 +388,7 @@
             "open_issues": 116,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 194856,
+            "stars": 195036,
             "topics": [
               "awesome",
               "awesome-list",
@@ -413,10 +413,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-10-30T20:46:41Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32808,
+            "stars": 32810,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -470,7 +470,7 @@
             "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3939,
+            "stars": 3940,
             "topics": [
               "awesome",
               "awesome-list",
@@ -520,7 +520,7 @@
             "language": "Nim",
             "license": "CC0-1.0",
             "last_commit": "2026-10-13T11:28:25Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "ringabout",
             "repo": "awesome-nim",
             "stars": 1554,
@@ -575,7 +575,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-25T14:15:25Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "danhuss",
             "repo": "awesome-sql",
             "stars": 456,
@@ -704,10 +704,10 @@
             "language": "Nim",
             "license": "MIT",
             "last_commit": "2026-07-29T13:03:03Z",
-            "open_issues": 70,
+            "open_issues": 69,
             "owner": "dom96",
             "repo": "jester",
-            "stars": 1626,
+            "stars": 1627,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -758,7 +758,7 @@
             "open_issues": 19,
             "owner": "dom96",
             "repo": "httpbeast",
-            "stars": 475,
+            "stars": 476,
             "topics": [
               "async",
               "http",
@@ -801,10 +801,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-15T08:05:27Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5666,
+            "stars": 5669,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -833,7 +833,7 @@
             "open_issues": 1,
             "owner": "LuNiZz",
             "repo": "siber-guvenlik-sss",
-            "stars": 3639,
+            "stars": 3641,
             "topics": [
               "siberguvenlik"
             ]
@@ -853,7 +853,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-03T09:18:50Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
             "stars": 2180,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:22:16.414Z",
+    "last_updated": "2026-11-21T00:53:37.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır. Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç nokta",
